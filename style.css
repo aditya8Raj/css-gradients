@@ -1,0 +1,14 @@
+body {
+    color: #fc7334;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .3em;
+    top: 15%;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 22%, rgba(107,9,121,1) 56%, rgba(0,212,255,1) 100%);
+}
+
+h3 {
+    color: black;
+    text-transform: lowercase;
+}
