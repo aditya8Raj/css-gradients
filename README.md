@@ -4,4 +4,4 @@ This is a free tool that lets you create a gradient background for websites.
 Click → <a href="https://cssgradients.vercel.app/" target="_blank"><strong>HERE</strong></a> ← to preview.
 
 <br>
-<img src="https://cdn.discordapp.com/attachments/953301715350847541/953721871151562793/Screenshot_2022-03-16_at_23-53-21_Gradient_Background.png" alt="screenshot-img">
+<img src="https://cdn.discordapp.com/attachments/954798558912057384/961657308268605450/Screenshot_Gradient_Background_-_Brave_1.png" alt="screenshot-img">
